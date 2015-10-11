@@ -1,0 +1,3 @@
+puts <<no
+dsdfsjdlfkjskldfjsldkfjld
+no
